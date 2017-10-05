@@ -132,3 +132,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Custom ignores
+public/bundle.js
+public/bundle.js.map
+public/styles.css
+public/styles.css.map
