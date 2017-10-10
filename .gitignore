@@ -134,3 +134,5 @@ Temporary Items
 
 # Custom ignores
 public/dist/
+.env.test
+.env.development
