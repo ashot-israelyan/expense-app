@@ -12,7 +12,7 @@ export const startLogin = () => {
 };
 
 export const logout = () => ({
-   type: 'LOGOUT'
+    type: 'LOGOUT'
 });
 
 export const startLogout = () => {
